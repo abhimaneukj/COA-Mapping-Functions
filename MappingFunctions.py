@@ -1,7 +1,7 @@
 #...____MAPPING FUNCTIONS_____...
 import math
 import random
-print("\n""..........MAPPING FUNCTIONS.........""\n"
+print("\n""..........MAPPING FUNCTIONS..........""\n"
       "_____________________________________________________________")
 def DIRECT():
         print("\n"".............DIRECT MAPPING............")
