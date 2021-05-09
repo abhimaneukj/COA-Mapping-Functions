@@ -1,5 +1,5 @@
 # COA-Mapping-Functions
-The project on Mapping functions in Computer Organization and Architecture is implemented using Python programming language. Python is a general purpose and high level programming language. The simple syntax rules of the programming language further makes it easier for you to keep the code base readable and application maintainable.
+The project on Mapping functions in Computer Organization and Architecture is implemented using Python programming language. The mapping functions are used to map a particular block of main memory to a particular block of cache. Python is a general purpose and high level programming language. The simple syntax rules of the programming language further makes it easier for you to keep the code base readable and application maintainable.
 
 The major functions include
 	DIRECT ( )
